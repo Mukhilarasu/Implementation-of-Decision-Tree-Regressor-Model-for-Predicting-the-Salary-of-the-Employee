@@ -79,7 +79,8 @@ plt.legend()
 plt.show()
 ```
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+<img width="1044" height="650" alt="image" src="https://github.com/user-attachments/assets/484aba7c-15d5-4bbe-9fe6-a7fb732dad46" />
+
 
 
 ## Result:
